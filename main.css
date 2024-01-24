@@ -10,6 +10,8 @@ body {
   padding: 1rem;
   display:flex;
   flex-direction: column;
+  align-items: stretch;
+  justify-content: space-between;
 }
 
 .emoji h2 {
@@ -38,7 +40,8 @@ body {
     gap: 15px;
 }
 
-p {
+/* p {
     padding: 5px 10px;
-}
+} */
+
 
